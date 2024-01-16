@@ -2,8 +2,8 @@
 
 <div align="center">
 <br />
-    <a href="https://nikhil-maguwala-dark-3d.netlify.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/nikhilmaguwala/auto-mieten/main/automieten_banner.png?token=GHSAT0AAAAAACMXOZWRYKKZ2I2TBLEU5GJMZNEHUUQ" alt="Project Banner">
+    <a href="https://github.com/nikhilmaguwala/nikhil-maguwala-space-portfolio" target="_blank">
+      <img src="https://raw.githubusercontent.com/nikhilmaguwala/nikhil-maguwala-space-portfolio/main/public/space_photo.png?token=GHSAT0AAAAAACMXOZWRAW6E3TZEYCAKJ5HGZNG5MCA" alt="Project Banner">
     </a>
   <br />
 
